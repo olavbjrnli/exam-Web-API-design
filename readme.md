@@ -69,5 +69,5 @@ All files         |    31.12 |    18.18 |    26.03 |    31.12 |                 
   server.js       |        0 |        0 |        0 |        0 |... 13,14,17,18,21 |
 ------------------|----------|----------|----------|----------|-------------------|
 
- I feel that with the requirements i have finished, and the test coverage i have, this assignment meets the requirements  for an D grade. I have gotten a better grasp over a lot of the core concepts of react, webdevelopment and with managing and creating restufl API's. 
+ I feel that with the requirements i have finished, and the test coverage i have, this assignment meets the requirements  for an C grade. I have gotten a better grasp over a lot of the core concepts of react, webdevelopment and with managing and creating restufl API's. 
  
